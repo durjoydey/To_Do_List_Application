@@ -92,6 +92,7 @@ while True:
                     place[x]=place[x+1]
                     description[x]=description[x+1]                  
                     z+=1
+
    
 
  elif choice==7:
